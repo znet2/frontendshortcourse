@@ -1,0 +1,40 @@
+.body{
+   background-color: rgb(201, 244, 244); 
+}
+
+.h1{
+    text-align: center;
+    color: blue; 
+    margin-left: 20px; 
+    margin-top: 30px;
+}
+
+.h2{
+    text-align: center;
+    color: slateblue; 
+    margin-left: 20px; 
+    margin-top: 10px;
+}
+
+.ps{
+    margin-left: 20px;
+}
+
+.linkhome{
+    margin-left: 20px
+}
+
+.ps{
+    background-color: rgb(200, 200, 210);
+    
+}
+
+.img {
+    width:320px;
+    height:240px; 
+    display: flex;
+    margin: auto;
+}
+
+
+
